@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=FileExchangeDb;Username=fileexchange_user;Password=zmien_to_haslo;Timezone=UTC"
+  }
+}
